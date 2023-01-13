@@ -1,0 +1,15 @@
+body {
+    font-size: 15pt;
+    background-color: white;
+   /* position: relative;
+    left : 40px;
+    top : 40px;
+    width: 200%;*/
+}
+p{
+  position : relative;
+  color: black;
+}
+a{
+  color: black;
+}
